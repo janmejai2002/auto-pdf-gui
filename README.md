@@ -1,2 +1,2 @@
 # auto-pdf-gui
-Application for automating notemaking process
+Documentation will be added soon. Work in progress
